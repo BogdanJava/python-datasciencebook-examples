@@ -94,18 +94,3 @@ def make_matrix(num_rows, num_columns, entry_fn):
 def is_diagonal(i, j):
     """1 in diagonal, others are 0"""
     return 1 if i == j else 0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
